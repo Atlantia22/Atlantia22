@@ -22,13 +22,12 @@
 
 I’m deeply interested in understanding how systems work — from logic and architecture to the details that make everything run smoothly. I enjoy breaking complex problems into smaller parts and finding efficient, thoughtful solutions. For me, growth comes from challenge, and challenge is something I actively seek.
 
-
-
-
-
 </p>
 
 
+<br/>
+<br/>
+<br/>
 <br/>
 
 <p align="center">
