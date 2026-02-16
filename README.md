@@ -60,6 +60,8 @@ I’m deeply interested in understanding how systems work — from logic and arc
 
 <h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 
+<p> Credits -  Benjamin-Solano</p>
+
 <div align = "center"> 
 
 ![Atlantia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atlantia22&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=Atlantia22&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
