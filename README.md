@@ -21,7 +21,7 @@
 <br/>
 
 <p>
-  I’m a 19-year-old engineering student driven by curiosity, discipline, and the desire to build meaningful things through technology. I see software not just as lines of code, but as structured ideas that can solve real problems and create real impact.
+  I’m a 20 years old engineering student driven by curiosity, discipline, and the desire to build meaningful things through technology. I see software not just as lines of code, but as structured ideas that can solve real problems and create real impact.
 
 I’m deeply interested in understanding how systems work — from logic and architecture to the details that make everything run smoothly. I enjoy breaking complex problems into smaller parts and finding efficient, thoughtful solutions. For me, growth comes from challenge, and challenge is something I actively seek.
 
