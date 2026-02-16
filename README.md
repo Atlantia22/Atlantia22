@@ -4,7 +4,7 @@
   <a href="https://www.instagram.com/karen_th1/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
+  <a href="https://co.pinterest.com/ktrivino2202/" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
 </p>
