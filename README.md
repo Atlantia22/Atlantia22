@@ -70,6 +70,8 @@ I’m deeply interested in understanding how systems work — from logic and arc
 
 </div>
 
+<br/>
+
 <div>
   <p> Credits -  Benjamin-Solano</p>
 </div>
