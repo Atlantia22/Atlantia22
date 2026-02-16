@@ -22,13 +22,6 @@
 
 I’m deeply interested in understanding how systems work — from logic and architecture to the details that make everything run smoothly. I enjoy breaking complex problems into smaller parts and finding efficient, thoughtful solutions. For me, growth comes from challenge, and challenge is something I actively seek.
 
-Beyond technical skills, I value consistency, resilience, and continuous improvement. I believe that becoming a great developer is not about knowing everything, but about staying committed to learning, adapting, and refining your craft every day.
-
-I approach my projects with responsibility and intention. I care about clean structure, clarity, and building things that are sustainable and well thought out. Every project I work on is a step toward becoming a stronger professional and a more capable problem-solver.
-
-My long-term vision is to grow internationally, expand my knowledge, and contribute to innovative environments where I can both learn and add value. I’m motivated by ambition — but also by purpose.
-
-This GitHub is part of my journey. Every repository represents progress, discipline, and the determination to turn ideas into reality.
 </p>
 
 
@@ -49,7 +42,6 @@ This GitHub is part of my journey. Every repository represents progress, discipl
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
