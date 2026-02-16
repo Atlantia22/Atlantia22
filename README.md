@@ -1,4 +1,7 @@
-<img align= "center" src = "githubanner.jpeg"/>
+<p align="center">
+  <img src="githubanner.jpeg" width="100%" />
+</p>
+
 
 <p align="center">
   <a href="https://www.instagram.com/karen_th1/" target="_blank">
