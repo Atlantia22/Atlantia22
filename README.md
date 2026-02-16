@@ -22,6 +22,10 @@
 
 I’m deeply interested in understanding how systems work — from logic and architecture to the details that make everything run smoothly. I enjoy breaking complex problems into smaller parts and finding efficient, thoughtful solutions. For me, growth comes from challenge, and challenge is something I actively seek.
 
+
+
+
+
 </p>
 
 
@@ -57,7 +61,7 @@ I’m deeply interested in understanding how systems work — from logic and arc
 
 <div align = "center"> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atlantia22&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=Benjamin-Solano&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+![Atlantia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atlantia22&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=Atlantia22&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atlantia22&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
