@@ -18,22 +18,32 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+  I’m a 19-year-old engineering student driven by curiosity, discipline, and the desire to build meaningful things through technology. I see software not just as lines of code, but as structured ideas that can solve real problems and create real impact.
+
+I’m deeply interested in understanding how systems work — from logic and architecture to the details that make everything run smoothly. I enjoy breaking complex problems into smaller parts and finding efficient, thoughtful solutions. For me, growth comes from challenge, and challenge is something I actively seek.
+
+Beyond technical skills, I value consistency, resilience, and continuous improvement. I believe that becoming a great developer is not about knowing everything, but about staying committed to learning, adapting, and refining your craft every day.
+
+I approach my projects with responsibility and intention. I care about clean structure, clarity, and building things that are sustainable and well thought out. Every project I work on is a step toward becoming a stronger professional and a more capable problem-solver.
+
+My long-term vision is to grow internationally, expand my knowledge, and contribute to innovative environments where I can both learn and add value. I’m motivated by ambition — but also by purpose.
+
+This GitHub is part of my journey. Every repository represents progress, discipline, and the determination to turn ideas into reality.
 </p>
 
 
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025) </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
+   <em><b> Studying at the Tecnologico de Antioquia</b></em> <br/>
+   <em><b> Always learning, always improving</b></em><br/>
+   <em><b> Turning ambition into action. </b></em><br/>
+   <em><b> Quietly building my future. </b></em><br/>
 </p>
 
 <br/>
 <br/>
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+<h2 align="center"> <em> Technologies </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -45,12 +55,7 @@
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <br/>
